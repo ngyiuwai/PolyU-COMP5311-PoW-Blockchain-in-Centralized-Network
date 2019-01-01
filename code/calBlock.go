@@ -19,7 +19,7 @@ type Block struct {
 	Data [][]byte
 	// Block hash,  can be computed using header
 	CurrBlockHash []byte
-	// Byte Stream : Serialized Block
+	// Byte Stream : Serialized Block Header
 	//	Block is defines as
 	//	8	bytes:	MagicNumber		(16-digit hexadecimal integer, 00004B61726C4E67)
 	//	4	bytes:	Timestamp		(10-digit decimal positive integer)
