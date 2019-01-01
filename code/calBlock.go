@@ -27,7 +27,7 @@ type Block struct {
 	//	32	bytes:	MerkleTreeRoot	(64-digit hexadecimal integer)
 	//	4	bytes:	Nonce			(10-digit decimal positive integer)
 	//	Variable :	Data			(UTF-8)
-	// Length of Header = 78 bytes
+	// Length of Header = 80 bytes
 	ByteStream []byte
 }
 
