@@ -1,6 +1,6 @@
 ## Project Blockchain: Mining in Centralized Network using PoW
 
-This is a simple project to demonstration the Proof of Work Algorithm in Bitcoin, which is the most well-known blockchain, using a centralized network. **Please read the pdf for details. Algorithms are explained in the report.**
+This is a simple project to demonstration the Proof of Work Algorithm of Bitcoin, which is the most well-known blockchain, using a centralized network. **Please read the pdf for details. Algorithm is explained in the report.**
 
 Bitcoin, the most well-known blockchain network, is described as 
 
